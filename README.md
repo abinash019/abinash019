@@ -116,5 +116,4 @@ MIT © Abinash
 
 **View it live:** `https://github.com/abinash019`
 
-That's all! Just copy and paste. No changes needed. 🚀
 
